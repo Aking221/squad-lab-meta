@@ -1,0 +1,794 @@
+{
+  "schema": 1,
+  "game": "fc27",
+  "updated": "2026-10-12",
+  "summary": "Meta FC 27 au 12/10/2026. Formations : 4-2-1-3 en tête des équipes suivies, 4-4-1-1 très jouée par les pros, 4-2-3-1 large et 4-3-3 avec MDC ; 4-3-1-2 pour jouer à deux attaquants. Les PlayStyles (Finesse Shot, Low Driven, Rapid, Quick Step…) ont été affaiblis : les stats brutes comptent davantage, l’accélération avant la vitesse de pointe. Les cartes féminines rapides et agiles sont très présentes chez les pros.",
+  "sources": [
+    {
+      "title": "EA — FC 27 Pitch Notes (lancement)",
+      "url": "https://www.ea.com/ja/games/ea-sports-fc/fc-27/news/pitch-notes-fc27-launch-update"
+    },
+    {
+      "title": "FUT.GG — PlayStyles affaiblis et renforcés",
+      "url": "https://www.fut.gg/news/every-playstyle-nerf-and-buff-in-ea-fc-27-full-list-of-changes/"
+    },
+    {
+      "title": "FUT.GG — Joueurs les plus utilisés",
+      "url": "https://www.fut.gg/tactics/most-used-players/"
+    },
+    {
+      "title": "Timesaver — Formations de la semaine de lancement",
+      "url": "https://timesaver.gg/blog/fc-27-best-formations-custom-tactics-launch-week"
+    },
+    {
+      "title": "KeenGamer — Formations et tactiques meta",
+      "url": "https://www.keengamer.com/articles/guides/ea-sports-fc-27-best-meta-tactics-and-formations/"
+    },
+    {
+      "title": "Red Bull — Meilleures formations FC 27",
+      "url": "https://www.redbull.com/fr-fr/ea-fc-27-meilleures-formations-tactiques"
+    }
+  ],
+  "formations": [
+    {
+      "id": "4-2-1-3",
+      "tier": 1,
+      "slots": [
+        {
+          "pos": "GK",
+          "role": "gk"
+        },
+        {
+          "pos": "RB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "LB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CDM",
+          "role": "holding"
+        },
+        {
+          "pos": "CDM",
+          "role": "boxCrasher"
+        },
+        {
+          "pos": "RW",
+          "role": "insideForward"
+        },
+        {
+          "pos": "CAM",
+          "role": "shadowStriker"
+        },
+        {
+          "pos": "LW",
+          "role": "insideForward"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        }
+      ],
+      "tips": "La plus jouée au lancement. Construction en contre, défense équilibrée, profondeur autour de 50. Il faut des ailiers rapides, un MOC qui se projette et une sentinelle qui reste derrière."
+    },
+    {
+      "id": "4-2-3-1",
+      "tier": 1,
+      "slots": [
+        {
+          "pos": "GK",
+          "role": "gk"
+        },
+        {
+          "pos": "RB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "LB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CDM",
+          "role": "holding"
+        },
+        {
+          "pos": "CDM",
+          "role": "boxCrasher"
+        },
+        {
+          "pos": "RM",
+          "role": "insideForward"
+        },
+        {
+          "pos": "CAM",
+          "role": "shadowStriker"
+        },
+        {
+          "pos": "LM",
+          "role": "insideForward"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        }
+      ],
+      "tips": "Version plus prudente du 4-2-1-3 : milieux excentrés un peu plus bas. Utile pour gérer un score. L’attaquant peut se retrouver isolé."
+    },
+    {
+      "id": "4-3-3 (MDC)",
+      "tier": 1,
+      "slots": [
+        {
+          "pos": "GK",
+          "role": "gk"
+        },
+        {
+          "pos": "RB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "LB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CDM",
+          "role": "holding"
+        },
+        {
+          "pos": "CM",
+          "role": "boxToBox"
+        },
+        {
+          "pos": "CM",
+          "role": "deepPlaymaker"
+        },
+        {
+          "pos": "RW",
+          "role": "insideForward"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        },
+        {
+          "pos": "LW",
+          "role": "insideForward"
+        }
+      ],
+      "tips": "Jeu rapide et appels en profondeur. Plus risqué à la perte de balle : il faut une vraie sentinelle."
+    },
+    {
+      "id": "4-3-1-2",
+      "tier": 2,
+      "slots": [
+        {
+          "pos": "GK",
+          "role": "gk"
+        },
+        {
+          "pos": "RB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "LB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CM",
+          "role": "boxToBox"
+        },
+        {
+          "pos": "CM",
+          "role": "holding"
+        },
+        {
+          "pos": "CM",
+          "role": "boxToBox"
+        },
+        {
+          "pos": "CAM",
+          "role": "shadowStriker"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        }
+      ],
+      "tips": "La meilleure à deux attaquants : ils écartent les centraux et le MOC attaque l’espace derrière. Les trois milieux aident au contre-pressing. Point faible : la largeur, surtout contre une défense resserrée."
+    },
+    {
+      "id": "4-4-1-1",
+      "tier": 1,
+      "slots": [
+        {
+          "pos": "GK",
+          "role": "gk"
+        },
+        {
+          "pos": "RB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "LB",
+          "role": "fullback"
+        },
+        {
+          "pos": "RM",
+          "role": "insideForward"
+        },
+        {
+          "pos": "CM",
+          "role": "boxToBox"
+        },
+        {
+          "pos": "CM",
+          "role": "holding"
+        },
+        {
+          "pos": "LM",
+          "role": "insideForward"
+        },
+        {
+          "pos": "CAM",
+          "role": "shadowStriker"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        }
+      ],
+      "tips": "Très jouée par les pros (environ un tiers d’entre eux selon FUT.GG, cité par Red Bull). Solide en défense et efficace en contre avec un bon meneur derrière l’attaquant."
+    },
+    {
+      "id": "4-1-2-1-2",
+      "tier": 2,
+      "slots": [
+        {
+          "pos": "GK",
+          "role": "gk"
+        },
+        {
+          "pos": "RB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "LB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CDM",
+          "role": "holding"
+        },
+        {
+          "pos": "CM",
+          "role": "boxToBox"
+        },
+        {
+          "pos": "CM",
+          "role": "boxToBox"
+        },
+        {
+          "pos": "CAM",
+          "role": "classic10"
+        },
+        {
+          "pos": "ST",
+          "role": "targetForward"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        }
+      ],
+      "tips": "Losange serré, passes courtes. Il faut des milieux qui gardent le ballon, un point d’appui et un attaquant qui prend la profondeur."
+    },
+    {
+      "id": "4-2-2-2",
+      "tier": 2,
+      "slots": [
+        {
+          "pos": "GK",
+          "role": "gk"
+        },
+        {
+          "pos": "RB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "LB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CDM",
+          "role": "holding"
+        },
+        {
+          "pos": "CDM",
+          "role": "boxCrasher"
+        },
+        {
+          "pos": "CAM",
+          "role": "playmaker"
+        },
+        {
+          "pos": "CAM",
+          "role": "shadowStriker"
+        },
+        {
+          "pos": "ST",
+          "role": "targetForward"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        }
+      ],
+      "tips": "Sans ailiers : un MOC décroche sur le côté, l’autre attaque la surface. Idéal quand il faut marquer."
+    },
+    {
+      "id": "4-3-3 (MOC)",
+      "tier": 3,
+      "slots": [
+        {
+          "pos": "GK",
+          "role": "gk"
+        },
+        {
+          "pos": "RB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "CB",
+          "role": "defender"
+        },
+        {
+          "pos": "LB",
+          "role": "fullback"
+        },
+        {
+          "pos": "CM",
+          "role": "boxToBox"
+        },
+        {
+          "pos": "CM",
+          "role": "holding"
+        },
+        {
+          "pos": "RW",
+          "role": "insideForward"
+        },
+        {
+          "pos": "CAM",
+          "role": "shadowStriker"
+        },
+        {
+          "pos": "LW",
+          "role": "insideForward"
+        },
+        {
+          "pos": "ST",
+          "role": "advancedForward"
+        }
+      ],
+      "tips": "Très offensif : moins de couverture défensive. Garde au moins un milieu en consigne défensive."
+    }
+  ],
+  "roleWeights": {
+    "gk": [
+      0.26,
+      0.12,
+      0.04,
+      0.34,
+      0.02,
+      0.22
+    ],
+    "fullback": [
+      0.38,
+      0,
+      0.16,
+      0.16,
+      0.2,
+      0.1
+    ],
+    "defender": [
+      0.3,
+      0,
+      0.06,
+      0.04,
+      0.38,
+      0.22
+    ],
+    "holding": [
+      0.12,
+      0,
+      0.2,
+      0.06,
+      0.36,
+      0.26
+    ],
+    "boxCrasher": [
+      0.24,
+      0.12,
+      0.2,
+      0.18,
+      0.12,
+      0.14
+    ],
+    "boxToBox": [
+      0.2,
+      0.08,
+      0.24,
+      0.18,
+      0.14,
+      0.16
+    ],
+    "deepPlaymaker": [
+      0.12,
+      0.04,
+      0.38,
+      0.22,
+      0.14,
+      0.1
+    ],
+    "playmaker": [
+      0.2,
+      0.1,
+      0.34,
+      0.32,
+      0,
+      0.04
+    ],
+    "shadowStriker": [
+      0.3,
+      0.3,
+      0.1,
+      0.26,
+      0,
+      0.04
+    ],
+    "classic10": [
+      0.18,
+      0.18,
+      0.3,
+      0.32,
+      0,
+      0.02
+    ],
+    "insideForward": [
+      0.38,
+      0.22,
+      0.08,
+      0.3,
+      0,
+      0.02
+    ],
+    "winger": [
+      0.42,
+      0.08,
+      0.2,
+      0.28,
+      0,
+      0.02
+    ],
+    "advancedForward": [
+      0.4,
+      0.36,
+      0.02,
+      0.14,
+      0,
+      0.08
+    ],
+    "targetForward": [
+      0.16,
+      0.36,
+      0.06,
+      0.1,
+      0,
+      0.32
+    ]
+  },
+  "bonus": {
+    "sm4": 0.8,
+    "sm5": 2,
+    "wf4": 1,
+    "wf5": 2.5,
+    "playStyle": 0.25,
+    "playStyleMax": 1.5,
+    "heightPerCm": 0.15,
+    "heightMax": 2
+  },
+  "chemBonus": 1.2,
+  "formationTierBonus": {
+    "1": 15,
+    "2": 7,
+    "3": 0
+  },
+  "playerBoosts": [
+    {
+      "name": "Maxence Lacroix",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Joan García",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Caroline Graham Hansen",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Marcos Llorente",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Sakina Karchaoui",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Salma Paralluelo",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Balde",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Karim Adeyemi",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Lamine Yamal",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Patri Guijarro",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Aitana Bonmatí",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Frenkie de Jong",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Mariona",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Georgia Stanway",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Yan Diomande",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Selma Bacha",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Álvaro Carreras",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Willian Pacho",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Thibaut Courtois",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Bradley Barcola",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Kika Nazareth",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Melchie Dumornay",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Kadidiatou Diani",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Alexia Putellas",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Antonio Valencia",
+      "bonus": 2,
+      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+    },
+    {
+      "name": "Jeremie Frimpong",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Matheus Nunes",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "João Neves",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Elliot Anderson",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Ayyoub Bouaddi",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Savinho",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Nico Williams",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Anthony Gordon",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Vicky López",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Maghnes Akliouche",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Eric García",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Renato Veiga",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Djed Spence",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Giorgi Mamardashvili",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Emiliano Martínez",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Alexandre Pato",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Nicole Anyomi",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    },
+    {
+      "name": "Lauren Hemp",
+      "bonus": 1,
+      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    }
+  ]
+}
