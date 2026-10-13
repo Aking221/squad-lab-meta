@@ -96,6 +96,15 @@ export function validateMetaConfig(raw) {
     }
   }
 
+  // Candidats meta à chercher sur le marché (id = resourceId de la carte EA)
+  if (raw.candidates != null) {
+    out.candidates = [];
+    for (const c of Array.isArray(raw.candidates) ? raw.candidates.slice(0, 800) : []) {
+      if (!c || !Number.isInteger(c.id) || c.id <= 0 || !isStr(c.name, 80) || !POSITIONS.has(c.pos) || !isNum(c.meta, 40, 100) || !isNum(c.price, 0, 100000000)) { err('candidat invalide (id, name, pos, meta, price)'); continue; }
+      out.candidates.push({ id: c.id, name: c.name, pos: c.pos, meta: c.meta, price: c.price });
+    }
+  }
+
   // Règles de jeu éventuellement corrigées par un patch
   if (raw.chem != null) {
     const c = raw.chem;
@@ -120,6 +129,8 @@ export function applyMetaConfig(settings, config) {
     bonus: { ...w.bonus, ...(config.bonus || {}) },
     chemBonus: config.chemBonus ?? w.chemBonus,
   };
+  const candidateMeta = {};
+  for (const c of config.candidates || []) candidateMeta[c.id] = Math.max(candidateMeta[c.id] || 0, c.meta);
   const boosts = { byId: {}, byName: {} };
   for (const p of config.playerBoosts || []) {
     if (p.assetId) boosts.byId[p.assetId] = p.bonus;
@@ -134,6 +145,8 @@ export function applyMetaConfig(settings, config) {
     formations: config.formations || META_FORMATIONS,
     roleDefs: { ...ROLES, ...(config.roles || {}) },
     playerBoosts: boosts,
+    candidates: config.candidates || [],
+    candidateMeta,
   };
 }
 

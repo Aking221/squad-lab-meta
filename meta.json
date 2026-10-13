@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "game": "fc27",
-  "updated": "2026-10-12",
-  "summary": "Meta FC 27 au 12/10/2026. Formations : 4-2-1-3 en tête des équipes suivies, 4-4-1-1 très jouée par les pros, 4-2-3-1 large et 4-3-3 avec MDC ; 4-3-1-2 pour jouer à deux attaquants. Les PlayStyles (Finesse Shot, Low Driven, Rapid, Quick Step…) ont été affaiblis : les stats brutes comptent davantage, l’accélération avant la vitesse de pointe. Les cartes féminines rapides et agiles sont très présentes chez les pros.",
+  "updated": "2026-10-13",
+  "summary": "Meta FC 27 au 13/10/2026. Formations : 4-2-1-3 en tête des équipes suivies, 4-4-1-1 très jouée par les pros, 4-2-3-1 large et 4-3-3 avec MDC ; 4-3-1-2 pour jouer à deux attaquants. Les PlayStyles (Finesse Shot, Low Driven, Rapid, Quick Step…) ont été affaiblis : les stats brutes comptent davantage, l’accélération avant la vitesse de pointe. Les cartes féminines rapides et agiles sont très présentes chez les pros.",
   "sources": [
     {
       "title": "EA — FC 27 Pitch Notes (lancement)",
@@ -27,6 +27,10 @@
     {
       "title": "Red Bull — Meilleures formations FC 27",
       "url": "https://www.redbull.com/fr-fr/ea-fc-27-meilleures-formations-tactiques"
+    },
+    {
+      "title": "FUT Mind — meilleurs joueurs par note meta",
+      "url": "https://futmind.com/players/best"
     }
   ],
   "formations": [
@@ -789,6 +793,988 @@
       "name": "Lauren Hemp",
       "bonus": 1,
       "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+    }
+  ],
+  "candidates": [
+    {
+      "id": 279799,
+      "name": "Temwa Chawinga",
+      "pos": "LM",
+      "meta": 89.1,
+      "price": 19500
+    },
+    {
+      "id": 246420,
+      "name": "Jérémy Doku",
+      "pos": "LM",
+      "meta": 88.8,
+      "price": 20000
+    },
+    {
+      "id": 265249,
+      "name": "Lauren James",
+      "pos": "LM",
+      "meta": 88.7,
+      "price": 6000
+    },
+    {
+      "id": 227361,
+      "name": "Kadidiatou Diani",
+      "pos": "RM",
+      "meta": 88.7,
+      "price": 21000
+    },
+    {
+      "id": 272834,
+      "name": "João Neves",
+      "pos": "CDM",
+      "meta": 88.4,
+      "price": 13500
+    },
+    {
+      "id": 273153,
+      "name": "Linda Caicedo",
+      "pos": "LM",
+      "meta": 88.3,
+      "price": 5600
+    },
+    {
+      "id": 235073,
+      "name": "Gregor Kobel",
+      "pos": "GK",
+      "meta": 87.8,
+      "price": 7400
+    },
+    {
+      "id": 50609599,
+      "name": "Lily Yohannes",
+      "pos": "CM",
+      "meta": 87.8,
+      "price": 51000
+    },
+    {
+      "id": 256516,
+      "name": "Nico Williams",
+      "pos": "LM",
+      "meta": 87.7,
+      "price": 9200
+    },
+    {
+      "id": 230621,
+      "name": "Gianluigi Donnarumma",
+      "pos": "GK",
+      "meta": 87.7,
+      "price": 32000
+    },
+    {
+      "id": 278219,
+      "name": "Tabitha Chawinga",
+      "pos": "LM",
+      "meta": 87.6,
+      "price": 18000
+    },
+    {
+      "id": 246191,
+      "name": "Julián Alvarez",
+      "pos": "ST",
+      "meta": 87.6,
+      "price": 40000
+    },
+    {
+      "id": 50524633,
+      "name": "Kevin De Bruyne",
+      "pos": "CM",
+      "meta": 87.6,
+      "price": 49000
+    },
+    {
+      "id": 200389,
+      "name": "Jan Oblak",
+      "pos": "GK",
+      "meta": 87.4,
+      "price": 13300
+    },
+    {
+      "id": 229558,
+      "name": "Dayot Upamecano",
+      "pos": "CB",
+      "meta": 87.4,
+      "price": 17500
+    },
+    {
+      "id": 50574893,
+      "name": "Orkun Kökçü",
+      "pos": "CM",
+      "meta": 87.4,
+      "price": 32000
+    },
+    {
+      "id": 224232,
+      "name": "Nicolò Barella",
+      "pos": "CM",
+      "meta": 87.3,
+      "price": 7200
+    },
+    {
+      "id": 237197,
+      "name": "Grace Geyoro",
+      "pos": "CDM",
+      "meta": 87.3,
+      "price": 11000
+    },
+    {
+      "id": 50534459,
+      "name": "Emiliano Martínez",
+      "pos": "GK",
+      "meta": 87.2,
+      "price": 5000
+    },
+    {
+      "id": 226893,
+      "name": "Debinha",
+      "pos": "CAM",
+      "meta": 87.2,
+      "price": 9000
+    },
+    {
+      "id": 158023,
+      "name": "Lionel Messi",
+      "pos": "CAM",
+      "meta": 87.2,
+      "price": 20500
+    },
+    {
+      "id": 50606677,
+      "name": "Ibrahim Maza",
+      "pos": "CM",
+      "meta": 87.1,
+      "price": 20500
+    },
+    {
+      "id": 212831,
+      "name": "Alisson",
+      "pos": "GK",
+      "meta": 86.9,
+      "price": 14000
+    },
+    {
+      "id": 247257,
+      "name": "Ibañez",
+      "pos": "CB",
+      "meta": 86.8,
+      "price": 2700
+    },
+    {
+      "id": 209331,
+      "name": "Mohamed Salah",
+      "pos": "RM",
+      "meta": 86.8,
+      "price": 7100
+    },
+    {
+      "id": 247819,
+      "name": "Nico Schlotterbeck",
+      "pos": "CB",
+      "meta": 86.7,
+      "price": 7400
+    },
+    {
+      "id": 277031,
+      "name": "Abdukodir Khusanov",
+      "pos": "CB",
+      "meta": 86.7,
+      "price": 9400
+    },
+    {
+      "id": 212622,
+      "name": "Joshua Kimmich",
+      "pos": "CDM",
+      "meta": 86.6,
+      "price": 12500
+    },
+    {
+      "id": 246863,
+      "name": "Felix Nmecha",
+      "pos": "CDM",
+      "meta": 86.5,
+      "price": 3300
+    },
+    {
+      "id": 276359,
+      "name": "Barbra Banda",
+      "pos": "ST",
+      "meta": 86.5,
+      "price": 12500
+    },
+    {
+      "id": 50597341,
+      "name": "Jakub Kiwior",
+      "pos": "CB",
+      "meta": 86.4,
+      "price": 20300
+    },
+    {
+      "id": 50555345,
+      "name": "Robin Gosens",
+      "pos": "LB",
+      "meta": 86.1,
+      "price": 29000
+    },
+    {
+      "id": 265674,
+      "name": "Selma Bacha",
+      "pos": "LB",
+      "meta": 85.7,
+      "price": 24000
+    },
+    {
+      "id": 227323,
+      "name": "Guro Reiten",
+      "pos": "LB",
+      "meta": 85.4,
+      "price": 5200
+    },
+    {
+      "id": 262457,
+      "name": "Olga Carmona",
+      "pos": "LB",
+      "meta": 84.8,
+      "price": 1100
+    },
+    {
+      "id": 50578336,
+      "name": "Saud Abdulhamid",
+      "pos": "RB",
+      "meta": 86.2,
+      "price": 31500
+    },
+    {
+      "id": 50609517,
+      "name": "Michael Kayode",
+      "pos": "RB",
+      "meta": 85.3,
+      "price": 31000
+    },
+    {
+      "id": 67336110,
+      "name": "Lucy Bronze",
+      "pos": "RB",
+      "meta": 84.5,
+      "price": 20000
+    },
+    {
+      "id": 245037,
+      "name": "Eric García",
+      "pos": "RB",
+      "meta": 84.2,
+      "price": 37000
+    },
+    {
+      "id": 257001,
+      "name": "Chloe Kelly",
+      "pos": "RM",
+      "meta": 86.3,
+      "price": 5400
+    },
+    {
+      "id": 257008,
+      "name": "Lauren Hemp",
+      "pos": "LM",
+      "meta": 86.2,
+      "price": 7700
+    },
+    {
+      "id": 227796,
+      "name": "Christian Pulisic",
+      "pos": "RM",
+      "meta": 86.0,
+      "price": 2700
+    },
+    {
+      "id": 266928,
+      "name": "Trinity Rodman",
+      "pos": "LM",
+      "meta": 86.0,
+      "price": 6900
+    },
+    {
+      "id": 259372,
+      "name": "Athenea",
+      "pos": "LW",
+      "meta": 85.9,
+      "price": 1700
+    },
+    {
+      "id": 232075,
+      "name": "Rose Lavelle",
+      "pos": "CAM",
+      "meta": 85.9,
+      "price": 7200
+    },
+    {
+      "id": 243014,
+      "name": "Bryan Mbeumo",
+      "pos": "RM",
+      "meta": 85.9,
+      "price": 9100
+    },
+    {
+      "id": 270673,
+      "name": "Warren Zaïre-Emery",
+      "pos": "CDM",
+      "meta": 85.7,
+      "price": 950
+    },
+    {
+      "id": 272076,
+      "name": "Racheal Kundananji",
+      "pos": "ST",
+      "meta": 85.6,
+      "price": 1500
+    },
+    {
+      "id": 240717,
+      "name": "Lineth Beerensteyn",
+      "pos": "ST",
+      "meta": 85.6,
+      "price": 2800
+    },
+    {
+      "id": 230899,
+      "name": "Ademola Lookman",
+      "pos": "ST",
+      "meta": 85.4,
+      "price": 1900
+    },
+    {
+      "id": 247246,
+      "name": "Khéphren Thuram",
+      "pos": "CDM",
+      "meta": 85.4,
+      "price": 2600
+    },
+    {
+      "id": 245697,
+      "name": "Clara Mateo",
+      "pos": "ST",
+      "meta": 85.4,
+      "price": 2900
+    },
+    {
+      "id": 245879,
+      "name": "Caroline Weir",
+      "pos": "CM",
+      "meta": 85.4,
+      "price": 5200
+    },
+    {
+      "id": 264936,
+      "name": "Géraldine Reuteler",
+      "pos": "CM",
+      "meta": 85.3,
+      "price": 1200
+    },
+    {
+      "id": 246104,
+      "name": "Ryan Gravenberch",
+      "pos": "CDM",
+      "meta": 85.3,
+      "price": 3700
+    },
+    {
+      "id": 256790,
+      "name": "Jamal Musiala",
+      "pos": "CAM",
+      "meta": 85.3,
+      "price": 7100
+    },
+    {
+      "id": 210676,
+      "name": "Wladimiro Falcone",
+      "pos": "GK",
+      "meta": 84.7,
+      "price": 1000
+    },
+    {
+      "id": 215698,
+      "name": "Mike Maignan",
+      "pos": "GK",
+      "meta": 83.4,
+      "price": 7300
+    },
+    {
+      "id": 50560031,
+      "name": "Kamil Grabara",
+      "pos": "GK",
+      "meta": 83.3,
+      "price": 650
+    },
+    {
+      "id": 244067,
+      "name": "Maxence Lacroix",
+      "pos": "CB",
+      "meta": 84.8,
+      "price": 6500
+    },
+    {
+      "id": 227190,
+      "name": "Irene Paredes",
+      "pos": "CB",
+      "meta": 83.8,
+      "price": 7100
+    },
+    {
+      "id": 232656,
+      "name": "Theo Hernández",
+      "pos": "LB",
+      "meta": 84.6,
+      "price": 9200
+    },
+    {
+      "id": 268889,
+      "name": "Álvaro Carreras",
+      "pos": "LB",
+      "meta": 83.4,
+      "price": 2300
+    },
+    {
+      "id": 234396,
+      "name": "Alphonso Davies",
+      "pos": "LB",
+      "meta": 82.9,
+      "price": 1600
+    },
+    {
+      "id": 253436,
+      "name": "Ona Batlle",
+      "pos": "RB",
+      "meta": 83.4,
+      "price": 7400
+    },
+    {
+      "id": 227392,
+      "name": "Ashley Lawrence",
+      "pos": "RB",
+      "meta": 82.6,
+      "price": 800
+    },
+    {
+      "id": 248165,
+      "name": "Andrei Rațiu",
+      "pos": "RB",
+      "meta": 82.6,
+      "price": 900
+    },
+    {
+      "id": 192119,
+      "name": "Thibaut Courtois",
+      "pos": "GK",
+      "meta": 92.6,
+      "price": 51000
+    },
+    {
+      "id": 237288,
+      "name": "Mariona",
+      "pos": "CM",
+      "meta": 90.9,
+      "price": 88000
+    },
+    {
+      "id": 233662,
+      "name": "Sakina Karchaoui",
+      "pos": "CM",
+      "meta": 90.8,
+      "price": 93000
+    },
+    {
+      "id": 50596965,
+      "name": "Laura Blindkilde Brown",
+      "pos": "CDM",
+      "meta": 89.7,
+      "price": 74000
+    },
+    {
+      "id": 247635,
+      "name": "Khvicha Kvaratskhelia",
+      "pos": "RM",
+      "meta": 89.6,
+      "price": 85000
+    },
+    {
+      "id": 264012,
+      "name": "Sophia Wilson",
+      "pos": "ST",
+      "meta": 89.4,
+      "price": 70000
+    },
+    {
+      "id": 50588656,
+      "name": "Lauren Hemp",
+      "pos": "LM",
+      "meta": 88.2,
+      "price": 76000
+    },
+    {
+      "id": 243404,
+      "name": "Georgia Stanway",
+      "pos": "CDM",
+      "meta": 88.0,
+      "price": 58000
+    },
+    {
+      "id": 50597775,
+      "name": "Lewis Hall",
+      "pos": "LB",
+      "meta": 87.8,
+      "price": 97000
+    },
+    {
+      "id": 50570392,
+      "name": "Weston McKennie",
+      "pos": "CDM",
+      "meta": 87.4,
+      "price": 94000
+    },
+    {
+      "id": 226161,
+      "name": "Marcos Llorente",
+      "pos": "RB",
+      "meta": 85.7,
+      "price": 58000
+    },
+    {
+      "id": 227261,
+      "name": "Alex Scott",
+      "pos": "RB",
+      "meta": 85.3,
+      "price": 96000
+    },
+    {
+      "id": 50596036,
+      "name": "Moleiro",
+      "pos": "CAM",
+      "meta": 87.2,
+      "price": 68000
+    },
+    {
+      "id": 239085,
+      "name": "Erling Haaland",
+      "pos": "ST",
+      "meta": 86.8,
+      "price": 75000
+    },
+    {
+      "id": 1551,
+      "name": "Ludovic Giuly",
+      "pos": "RW",
+      "meta": 86.4,
+      "price": 90000
+    },
+    {
+      "id": 50562269,
+      "name": "Gianluigi Donnarumma",
+      "pos": "GK",
+      "meta": 92.0,
+      "price": 200000
+    },
+    {
+      "id": 251854,
+      "name": "Pedri",
+      "pos": "CDM",
+      "meta": 90.7,
+      "price": 232000
+    },
+    {
+      "id": 237289,
+      "name": "Patri Guijarro",
+      "pos": "CM",
+      "meta": 90.5,
+      "price": 190000
+    },
+    {
+      "id": 50611447,
+      "name": "Temwa Chawinga",
+      "pos": "LM",
+      "meta": 90.4,
+      "price": 220000
+    },
+    {
+      "id": 227102,
+      "name": "Caroline Graham Hansen",
+      "pos": "RM",
+      "meta": 90.3,
+      "price": 235000
+    },
+    {
+      "id": 252371,
+      "name": "Jude Bellingham",
+      "pos": "CM",
+      "meta": 89.8,
+      "price": 190000
+    },
+    {
+      "id": 235212,
+      "name": "Achraf Hakimi",
+      "pos": "RB",
+      "meta": 89.7,
+      "price": 122000
+    },
+    {
+      "id": 266473,
+      "name": "Park Ji Sung",
+      "pos": "CM",
+      "meta": 89.7,
+      "price": 230000
+    },
+    {
+      "id": 67355727,
+      "name": "Felix Nmecha",
+      "pos": "CDM",
+      "meta": 89.5,
+      "price": 189000
+    },
+    {
+      "id": 277643,
+      "name": "Lamine Yamal",
+      "pos": "RM",
+      "meta": 89.4,
+      "price": 168000
+    },
+    {
+      "id": 50558541,
+      "name": "Debinha",
+      "pos": "CAM",
+      "meta": 89.2,
+      "price": 232000
+    },
+    {
+      "id": 50540979,
+      "name": "Mohamed Salah",
+      "pos": "ST",
+      "meta": 89.0,
+      "price": 169000
+    },
+    {
+      "id": 226307,
+      "name": "Simone Laudehr",
+      "pos": "CM",
+      "meta": 89.0,
+      "price": 186000
+    },
+    {
+      "id": 50579813,
+      "name": "Andrei Rațiu",
+      "pos": "RB",
+      "meta": 88.6,
+      "price": 117000
+    },
+    {
+      "id": 256196,
+      "name": "Willian Pacho",
+      "pos": "CB",
+      "meta": 88.4,
+      "price": 165000
+    },
+    {
+      "id": 214649,
+      "name": "Davor Šuker",
+      "pos": "ST",
+      "meta": 88.2,
+      "price": 159000
+    },
+    {
+      "id": 241846,
+      "name": "Ewa Pajor",
+      "pos": "ST",
+      "meta": 88.2,
+      "price": 201000
+    },
+    {
+      "id": 67329765,
+      "name": "David Raya",
+      "pos": "GK",
+      "meta": 88.1,
+      "price": 242000
+    },
+    {
+      "id": 226293,
+      "name": "Nadine Angerer",
+      "pos": "GK",
+      "meta": 87.6,
+      "price": 218000
+    },
+    {
+      "id": 50570879,
+      "name": "Cucurella",
+      "pos": "LB",
+      "meta": 87.5,
+      "price": 194000
+    },
+    {
+      "id": 8348,
+      "name": "Míchel Salgado",
+      "pos": "RB",
+      "meta": 86.0,
+      "price": 143000
+    },
+    {
+      "id": 247827,
+      "name": "Michael Olise",
+      "pos": "CAM",
+      "meta": 87.9,
+      "price": 138000
+    },
+    {
+      "id": 1025,
+      "name": "Rui Costa",
+      "pos": "CAM",
+      "meta": 87.7,
+      "price": 208000
+    },
+    {
+      "id": 50411047,
+      "name": "Gilberto Mora",
+      "pos": "CAM",
+      "meta": 87.6,
+      "price": 129000
+    },
+    {
+      "id": 50583793,
+      "name": "Nuno Mendes",
+      "pos": "LB",
+      "meta": 93.6,
+      "price": 920000
+    },
+    {
+      "id": 1179,
+      "name": "Gianluigi Buffon",
+      "pos": "GK",
+      "meta": 92.8,
+      "price": 880000
+    },
+    {
+      "id": 238794,
+      "name": "Vini Jr.",
+      "pos": "ST",
+      "meta": 92.6,
+      "price": 672000
+    },
+    {
+      "id": 265898,
+      "name": "Melchie Dumornay",
+      "pos": "ST",
+      "meta": 92.6,
+      "price": 800000
+    },
+    {
+      "id": 227203,
+      "name": "Alexia Putellas",
+      "pos": "CM",
+      "meta": 92.2,
+      "price": 895000
+    },
+    {
+      "id": 171877,
+      "name": "Marek Hamšík",
+      "pos": "CM",
+      "meta": 91.9,
+      "price": 570000
+    },
+    {
+      "id": 262531,
+      "name": "Claudia Pina",
+      "pos": "ST",
+      "meta": 91.7,
+      "price": 829000
+    },
+    {
+      "id": 226369,
+      "name": "Lotta Schelin",
+      "pos": "ST",
+      "meta": 91.6,
+      "price": 930000
+    },
+    {
+      "id": 48940,
+      "name": "Petr Čech",
+      "pos": "GK",
+      "meta": 91.2,
+      "price": 410000
+    },
+    {
+      "id": 67109352,
+      "name": "Oliver Kahn",
+      "pos": "GK",
+      "meta": 91.1,
+      "price": 605000
+    },
+    {
+      "id": 239053,
+      "name": "Federico Valverde",
+      "pos": "CM",
+      "meta": 91.0,
+      "price": 297000
+    },
+    {
+      "id": 50595660,
+      "name": "Sophia Wilson",
+      "pos": "ST",
+      "meta": 90.9,
+      "price": 730000
+    },
+    {
+      "id": 45661,
+      "name": "Raúl",
+      "pos": "ST",
+      "meta": 90.9,
+      "price": 844000
+    },
+    {
+      "id": 226359,
+      "name": "Christine Sinclair",
+      "pos": "ST",
+      "meta": 90.8,
+      "price": 878000
+    },
+    {
+      "id": 50559009,
+      "name": "Kadidiatou Diani",
+      "pos": "RM",
+      "meta": 90.6,
+      "price": 675000
+    },
+    {
+      "id": 50604801,
+      "name": "Linda Caicedo",
+      "pos": "LM",
+      "meta": 90.5,
+      "price": 387000
+    },
+    {
+      "id": 84415,
+      "name": "Hege Riise",
+      "pos": "CM",
+      "meta": 90.5,
+      "price": 500000
+    },
+    {
+      "id": 34079,
+      "name": "Ashley Cole",
+      "pos": "LB",
+      "meta": 90.4,
+      "price": 590000
+    },
+    {
+      "id": 226975,
+      "name": "Caroline Seger",
+      "pos": "CM",
+      "meta": 90.4,
+      "price": 819000
+    },
+    {
+      "id": 238382,
+      "name": "Alessandro Del Piero",
+      "pos": "CAM",
+      "meta": 90.4,
+      "price": 985000
+    },
+    {
+      "id": 233419,
+      "name": "Raphinha",
+      "pos": "LM",
+      "meta": 90.3,
+      "price": 487000
+    },
+    {
+      "id": 71608,
+      "name": "Julie Foudy",
+      "pos": "CM",
+      "meta": 90.2,
+      "price": 549000
+    },
+    {
+      "id": 137186,
+      "name": "Andrea Barzagli",
+      "pos": "CB",
+      "meta": 89.8,
+      "price": 558000
+    },
+    {
+      "id": 50752,
+      "name": "Ledley King",
+      "pos": "CB",
+      "meta": 88.9,
+      "price": 458000
+    },
+    {
+      "id": 138956,
+      "name": "Giorgio Chiellini",
+      "pos": "CB",
+      "meta": 88.5,
+      "price": 804000
+    },
+    {
+      "id": 238443,
+      "name": "Laurent Blanc",
+      "pos": "CB",
+      "meta": 88.5,
+      "price": 885000
+    },
+    {
+      "id": 5454,
+      "name": "Bixente Lizarazu",
+      "pos": "LB",
+      "meta": 88.2,
+      "price": 310000
+    },
+    {
+      "id": 67377753,
+      "name": "Álvaro Carreras",
+      "pos": "LB",
+      "meta": 88.1,
+      "price": 570000
+    },
+    {
+      "id": 5003,
+      "name": "Cafu",
+      "pos": "RB",
+      "meta": 89.6,
+      "price": 900000
+    },
+    {
+      "id": 250890,
+      "name": "Gianluca Zambrotta",
+      "pos": "RB",
+      "meta": 87.9,
+      "price": 480000
+    },
+    {
+      "id": 1041,
+      "name": "Javier Zanetti",
+      "pos": "RB",
+      "meta": 87.5,
+      "price": 400000
+    },
+    {
+      "id": 50610421,
+      "name": "Myles Lewis-Skelly",
+      "pos": "CDM",
+      "meta": 89.9,
+      "price": 750000
+    },
+    {
+      "id": 1114,
+      "name": "Roberto Baggio",
+      "pos": "CAM",
+      "meta": 90.1,
+      "price": 884000
+    },
+    {
+      "id": 190046,
+      "name": "Sócrates",
+      "pos": "CAM",
+      "meta": 90.0,
+      "price": 795000
     }
   ]
 }
