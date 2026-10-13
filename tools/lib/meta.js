@@ -31,6 +31,7 @@ export const DEFAULT_WEIGHTS = {
   // par rôle (FC 27)
   roles: {
     gk: [0.26, 0.12, 0.04, 0.34, 0.02, 0.22],
+    sweeperKeeper: [0.24, 0.12, 0.10, 0.30, 0.06, 0.18],
     fullback: [0.38, 0.00, 0.16, 0.16, 0.20, 0.10],
     defender: [0.30, 0.00, 0.06, 0.04, 0.38, 0.22],
     holding: [0.12, 0.00, 0.20, 0.06, 0.36, 0.26],
@@ -44,6 +45,7 @@ export const DEFAULT_WEIGHTS = {
     winger: [0.42, 0.08, 0.20, 0.28, 0.00, 0.02],
     advancedForward: [0.40, 0.36, 0.02, 0.14, 0.00, 0.08],
     targetForward: [0.16, 0.36, 0.06, 0.10, 0.00, 0.32],
+    false9: [0.24, 0.26, 0.20, 0.28, 0.00, 0.02],
   },
   // PlayStyles moins décisifs sur FC 27 : bonus réduit
   bonus: { sm4: 0.8, sm5: 2, wf4: 1, wf5: 2.5, playStyle: 0.25, playStyleMax: 1.5, heightPerCm: 0.15, heightMax: 2 },

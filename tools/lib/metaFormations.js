@@ -1,3 +1,5 @@
+// Formations meta FC 27 et rôle conseillé pour chaque poste (mise à jour 13/10/2026 :
+// FUTSettings — usage des setups pros —, EasySBC, Red Bull/Tekkz-RedLac, KeenGamer).
 // Formations meta FC 27 et rôle conseillé pour chaque poste.
 // Synthèse des guides publiés après la sortie (FUT.GG, Dexerto, Prima Games,
 // Timesaver, KeenGamer, Red Bull) : 4-2-1-3 en tête des équipes suivies au
@@ -8,6 +10,7 @@
 
 export const ROLES = {
   gk: { label: 'Gardien', short: 'Gardien', group: 'GK' },
+  sweeperKeeper: { label: 'Gardien libéro (Sweeper Keeper)', short: 'Gardien libéro', group: 'GK' },
   fullback: { label: 'Latéral', short: 'Latéral', group: 'FB' },
   defender: { label: 'Défenseur central', short: 'DC', group: 'CB' },
   holding: { label: 'Sentinelle (Holding)', short: 'Sentinelle', group: 'CDM' },
@@ -21,51 +24,49 @@ export const ROLES = {
   winger: { label: 'Ailier de couloir', short: 'Ailier', group: 'W' },
   advancedForward: { label: 'Attaquant avancé', short: 'Att. avancé', group: 'ST' },
   targetForward: { label: 'Point d’appui (Target Forward)', short: 'Point d’appui', group: 'ST' },
+  false9: { label: 'Faux 9', short: 'Faux 9', group: 'ST' },
 };
 
-const S = (pos, role) => ({ pos, role });
-const BACK4 = [S('GK', 'gk'), S('RB', 'fullback'), S('CB', 'defender'), S('CB', 'defender'), S('LB', 'fullback')];
+const S = (pos, role, focus) => (focus ? { pos, role, focus } : { pos, role });
+const BACK4 = [S('GK', 'gk', 'defend'), S('RB', 'fullback', 'balanced'), S('CB', 'defender', 'defend'), S('CB', 'defender', 'defend'), S('LB', 'fullback', 'balanced')];
 
 export const META_FORMATIONS = [
   {
-    id: '4-2-1-3', tier: 1,
-    slots: [...BACK4, S('CDM', 'holding'), S('CDM', 'boxCrasher'), S('RW', 'insideForward'), S('CAM', 'shadowStriker'), S('LW', 'insideForward'), S('ST', 'advancedForward')],
-    tips: 'La plus jouée au lancement. Construction en contre, défense équilibrée, profondeur autour de 50. Il faut des ailiers rapides, un MOC qui se projette et une sentinelle qui reste derrière.',
+    id: '4-3-1-2', tier: 1, usage: 55, buildUp: 'balanced', lineHeight: 62,
+    slots: [S('GK', 'sweeperKeeper', 'balanced'), S('RB', 'fullback', 'balanced'), S('CB', 'defender', 'defend'), S('CB', 'defender', 'defend'), S('LB', 'fullback', 'balanced'),
+      S('CM', 'boxToBox', 'ballWinning'), S('CM', 'holding', 'defend'), S('CM', 'boxToBox', 'ballWinning'), S('CAM', 'shadowStriker', 'attack'), S('ST', 'advancedForward', 'attack'), S('ST', 'advancedForward', 'attack')],
+    tips: 'La formation la plus jouée par les pros en ce moment (environ 55 % des setups suivis par FUTSettings, utilisée par Tekkz, RedLac…). Trois milieux solides, un MOC qui attaque l’espace et deux attaquants rapides. Construction équilibrée, ligne autour de 60-65.',
   },
   {
-    id: '4-2-3-1', tier: 1,
-    slots: [...BACK4, S('CDM', 'holding'), S('CDM', 'boxCrasher'), S('RM', 'insideForward'), S('CAM', 'shadowStriker'), S('LM', 'insideForward'), S('ST', 'advancedForward')],
-    tips: 'Version plus prudente du 4-2-1-3 : milieux excentrés un peu plus bas. Utile pour gérer un score. L’attaquant peut se retrouver isolé.',
+    id: '4-4-1-1', tier: 1, usage: 21, buildUp: 'balanced', lineHeight: 62,
+    slots: [S('GK', 'gk', 'defend'), S('RB', 'fullback', 'balanced'), S('CB', 'defender', 'defend'), S('CB', 'defender', 'defend'), S('LB', 'fullback', 'balanced'),
+      S('RM', 'insideForward', 'balanced'), S('CM', 'deepPlaymaker', 'buildUp'), S('CM', 'deepPlaymaker', 'buildUp'), S('LM', 'insideForward', 'balanced'), S('CAM', 'playmaker', 'balanced'), S('ST', 'advancedForward', 'attack')],
+    tips: 'Deuxième formation des pros (≈ 21 %). Jeu dans l’axe, deux meneurs reculés au milieu, ailiers rentrants et un meneur derrière l’attaquant.',
   },
   {
-    id: '4-3-3 (MDC)', tier: 1,
-    slots: [...BACK4, S('CDM', 'holding'), S('CM', 'boxToBox'), S('CM', 'deepPlaymaker'), S('RW', 'insideForward'), S('ST', 'advancedForward'), S('LW', 'insideForward')],
-    tips: 'Jeu rapide et appels en profondeur. Plus risqué à la perte de balle : il faut une vraie sentinelle.',
+    id: '4-2-1-3', tier: 2, usage: 11, buildUp: 'balanced', lineHeight: 60,
+    slots: [...BACK4, S('CDM', 'deepPlaymaker', 'buildUp'), S('CDM', 'holding', 'defend'), S('RW', 'insideForward', 'balanced'), S('CAM', 'shadowStriker', 'attack'), S('LW', 'insideForward', 'balanced'), S('ST', 'advancedForward', 'attack')],
+    tips: 'Bonne formation polyvalente : deux MDC protègent des contres, ailiers rentrants rapides.',
   },
   {
-    id: '4-3-1-2', tier: 2,
-    slots: [...BACK4, S('CM', 'boxToBox'), S('CM', 'holding'), S('CM', 'boxToBox'), S('CAM', 'shadowStriker'), S('ST', 'advancedForward'), S('ST', 'advancedForward')],
-    tips: 'La meilleure à deux attaquants : ils écartent les centraux et le MOC attaque l’espace derrière. Les trois milieux aident au contre-pressing. Point faible : la largeur, surtout contre une défense resserrée.',
+    id: '4-1-2-1-2', tier: 2, usage: 5, buildUp: 'balanced', lineHeight: 60,
+    slots: [...BACK4, S('CDM', 'deepPlaymaker', 'buildUp'), S('CM', 'boxToBox', 'balanced'), S('CM', 'boxToBox', 'balanced'), S('CAM', 'playmaker', 'balanced'), S('ST', 'advancedForward', 'attack'), S('ST', 'advancedForward', 'attack')],
+    tips: 'Losange serré, passes courtes dans l’axe. Peu de couverture sur les côtés.',
   },
   {
-    id: '4-4-1-1', tier: 1,
-    slots: [...BACK4, S('RM', 'insideForward'), S('CM', 'boxToBox'), S('CM', 'holding'), S('LM', 'insideForward'), S('CAM', 'shadowStriker'), S('ST', 'advancedForward')],
-    tips: 'Très jouée par les pros (environ un tiers d’entre eux selon FUT.GG, cité par Red Bull). Solide en défense et efficace en contre avec un bon meneur derrière l’attaquant.',
+    id: '4-3-2-1', tier: 3, usage: 3, buildUp: 'balanced', lineHeight: 60,
+    slots: [...BACK4, S('CM', 'boxToBox', 'balanced'), S('CM', 'holding', 'defend'), S('CM', 'boxToBox', 'balanced'), S('CF', 'false9', 'attack'), S('ST', 'advancedForward', 'attack'), S('CF', 'false9', 'attack')],
+    tips: 'Variante du 4-3-1-2 avec deux attaquants de soutien autour de l’avant-centre.',
   },
   {
-    id: '4-1-2-1-2', tier: 2,
-    slots: [...BACK4, S('CDM', 'holding'), S('CM', 'boxToBox'), S('CM', 'boxToBox'), S('CAM', 'classic10'), S('ST', 'targetForward'), S('ST', 'advancedForward')],
-    tips: 'Losange serré, passes courtes. Il faut des milieux qui gardent le ballon, un point d’appui et un attaquant qui prend la profondeur.',
+    id: '4-3-3', tier: 3, usage: 3, buildUp: 'balanced', lineHeight: 60,
+    slots: [...BACK4, S('CM', 'boxToBox', 'balanced'), S('CM', 'holding', 'defend'), S('CM', 'boxToBox', 'balanced'), S('RW', 'insideForward', 'balanced'), S('ST', 'advancedForward', 'attack'), S('LW', 'insideForward', 'balanced')],
+    tips: 'Jeu rapide sur les ailes ; plus exposé en défense.',
   },
   {
-    id: '4-2-2-2', tier: 2,
-    slots: [...BACK4, S('CDM', 'holding'), S('CDM', 'boxCrasher'), S('CAM', 'playmaker'), S('CAM', 'shadowStriker'), S('ST', 'targetForward'), S('ST', 'advancedForward')],
-    tips: 'Sans ailiers : un MOC décroche sur le côté, l’autre attaque la surface. Idéal quand il faut marquer.',
-  },
-  {
-    id: '4-3-3 (MOC)', tier: 3,
-    slots: [...BACK4, S('CM', 'boxToBox'), S('CM', 'holding'), S('RW', 'insideForward'), S('CAM', 'shadowStriker'), S('LW', 'insideForward'), S('ST', 'advancedForward')],
-    tips: 'Très offensif : moins de couverture défensive. Garde au moins un milieu en consigne défensive.',
+    id: '4-4-2', tier: 3, usage: 3, buildUp: 'balanced', lineHeight: 60,
+    slots: [...BACK4, S('RM', 'insideForward', 'balanced'), S('CM', 'boxToBox', 'balanced'), S('CM', 'boxToBox', 'balanced'), S('LM', 'insideForward', 'balanced'), S('ST', 'advancedForward', 'attack'), S('ST', 'advancedForward', 'attack')],
+    tips: 'Tactique de secours offensive de Tekkz : deux box-to-box, deux attaquants.',
   },
 ];
 

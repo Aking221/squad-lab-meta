@@ -61,7 +61,15 @@ export function validateMetaConfig(raw) {
       if (bad) { err(`${f.id} : poste ou rôle invalide (${bad && bad.pos}/${bad && bad.role})`); continue; }
       if (f.slots.filter((s) => s.pos === 'GK').length !== 1) { err(`${f.id} : un seul gardien`); continue; }
       ids.add(f.id);
-      out.formations.push({ id: f.id, tier: f.tier, slots: f.slots.map((s) => ({ pos: s.pos, role: s.role })), tips: isStr(f.tips, 600) ? f.tips : '' });
+      const FOCUS = new Set(['defend', 'balanced', 'buildUp', 'support', 'attack', 'aggressive', 'ballWinning', 'roaming', 'wide', 'versatile']);
+      out.formations.push({
+        id: f.id, tier: f.tier,
+        slots: f.slots.map((s) => ({ pos: s.pos, role: s.role, ...(FOCUS.has(s.focus) ? { focus: s.focus } : {}) })),
+        tips: isStr(f.tips, 600) ? f.tips : '',
+        ...(Number.isFinite(f.usage) && f.usage >= 0 && f.usage <= 100 ? { usage: f.usage } : {}),
+        ...(['balanced', 'counter', 'short'].includes(f.buildUp) ? { buildUp: f.buildUp } : {}),
+        ...(Number.isFinite(f.lineHeight) && f.lineHeight >= 0 && f.lineHeight <= 100 ? { lineHeight: Math.round(f.lineHeight) } : {}),
+      });
     }
     if (!out.formations.length) err('aucune formation valide');
   }
