@@ -1,16 +1,24 @@
 {
   "schema": 1,
   "game": "fc27",
-  "updated": "2026-10-15",
-  "summary": "Meta FC 27 au 15/10/2026 : stable, le 4-3-1-2 reste la référence (≈ 55 % des setups pros sur FUTSettings, construction équilibrée et ligne 60) devant le 4-4-1-1 et le 4-2-1-3, sans nouveau patch de gameplay depuis la mise à jour 1.0.4 du 7 octobre. Côté joueurs, Lacroix, Joan García et Karim Adeyemi dominent l'usage sur FUT.GG, et l'équipe 2 des Future Stars est attendue le vendredi 16 octobre.",
+  "updated": "2026-10-16",
+  "summary": "Meta FC 27 au 16/10/2026 : toujours sans nouveau patch de gameplay depuis la 1.0.4 du 7 octobre, le 4-3-1-2 reste la référence des pros devant le 4-4-1-1, tandis que le 4-2-1-3 devient la formation la plus jouée par la communauté (26 % sur FUT.GG, 19 % des pros). Côté joueurs, Lacroix, Joan García, Karchaoui, Graham Hansen et Paralluelo dominent l'usage des pros, et l'équipe 2 des Future Stars (Mainoo, Mastantuono, Hato, Rayan…) arrive en packs ce vendredi 16 octobre à 19 h.",
   "sources": [
     {
-      "title": "FUT.GG — Most used players by position (FC 27, consulté le 15/10/2026)",
+      "title": "FUT.GG — Most used players by position (FC 27, consulté le 16/10/2026)",
       "url": "https://www.fut.gg/tactics/most-used-players/"
+    },
+    {
+      "title": "FUT.GG — Best 4-2-1-3 custom tactics (usage pros/communauté, 16/10/2026)",
+      "url": "https://fut.gg/tactics/4-2-1-3"
     },
     {
       "title": "FUTSettings — Meta tactics & formations (usage des setups pros, consulté le 15/10/2026)",
       "url": "https://futsettings.com/meta"
+    },
+    {
+      "title": "RealSport101 — FC 27 Future Stars Team 2 : fuites et heure de sortie (13/10/2026)",
+      "url": "https://realsport101.com/article/fc-27-future-stars-team-2-leaks-full-squad-release-time"
     },
     {
       "title": "Destructoid — FC 27 Future Stars Team 2 : joueurs et date de sortie (14/10/2026)",
@@ -53,7 +61,7 @@
       "url": "https://www.redbull.com/int-en/best-ea-fc-27-custom-tactics"
     },
     {
-      "title": "FUTBIN — Joueurs populaires FC 27",
+      "title": "FUTBIN — Joueurs populaires FC 27 (consulté le 16/10/2026)",
       "url": "https://www.futbin.com/27/popular"
     },
     {
@@ -259,7 +267,7 @@
           "focus": "attack"
         }
       ],
-      "tips": "Bonne formation polyvalente : deux MDC protègent des contres, ailiers rentrants rapides."
+      "tips": "Formation n° 1 de la communauté (26 % des équipes actives) et jouée par 19 % des équipes pros sur FUT.GG (16/10) ; 3e chez les pros sur FUTSettings. Deux MDC protègent des contres, ailiers rentrants rapides."
     },
     {
       "id": "4-1-2-1-2",
@@ -681,7 +689,7 @@
     {
       "name": "Salma Paralluelo",
       "bonus": 4,
-      "reason": "très joué en ce moment (FUTBIN populaires, EasySBC, FUTSettings)"
+      "reason": "AG le plus utilisé par les pros (17 %), 3e BU (9 %) — FUT.GG, 16/10"
     },
     {
       "name": "Kika Nazareth",
@@ -696,7 +704,7 @@
     {
       "name": "Pedri",
       "bonus": 3,
-      "reason": "très joué en ce moment (FUTBIN populaires, EasySBC, FUTSettings)"
+      "reason": "MDC le plus utilisé par les pros (17 %) — FUT.GG, 16/10"
     },
     {
       "name": "Kroupi",
@@ -711,7 +719,7 @@
     {
       "name": "Sakina Karchaoui",
       "bonus": 3,
-      "reason": "très joué en ce moment (FUTBIN populaires, EasySBC, FUTSettings)"
+      "reason": "MC le plus utilisé par les pros (19 %) — FUT.GG, 16/10"
     },
     {
       "name": "Raphinha",
@@ -776,7 +784,7 @@
     {
       "name": "Joan García",
       "bonus": 3,
-      "reason": "gardien le plus utilisé (27 % des pros, 21 % de la communauté) — FUT.GG, 15/10"
+      "reason": "gardien le plus utilisé (25 % des pros, 21 % de la communauté) — FUT.GG, 16/10"
     },
     {
       "name": "Michael Olise",
@@ -826,7 +834,7 @@
     {
       "name": "Kylian Mbappé",
       "bonus": 4,
-      "reason": "très joué en ce moment (FUTBIN populaires, EasySBC, FUTSettings)"
+      "reason": "BU le plus utilisé par les pros (13 %) — FUT.GG, 16/10"
     },
     {
       "name": "Rafael Márquez",
@@ -926,22 +934,22 @@
     {
       "name": "Maxence Lacroix",
       "bonus": 3,
-      "reason": "DC le plus utilisé (31 % des pros, 25 % de la communauté) — FUT.GG, 15/10"
+      "reason": "DC le plus utilisé (29 % des pros, 25 % de la communauté) — FUT.GG, 16/10"
     },
     {
       "name": "Caroline Graham Hansen",
-      "bonus": 2,
-      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+      "bonus": 3,
+      "reason": "AD le plus utilisé par les pros (19 %) — FUT.GG, 16/10"
     },
     {
       "name": "Balde",
-      "bonus": 2,
-      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+      "bonus": 3,
+      "reason": "DG le plus utilisé par la communauté (24 %) — FUT.GG, 16/10"
     },
     {
       "name": "Karim Adeyemi",
       "bonus": 3,
-      "reason": "1er attaquant et 1er AD de la communauté, 2e AG des pros (9 %) — FUT.GG, 15/10"
+      "reason": "1er attaquant de la communauté (7 %), 2e BU des pros (11 %) — FUT.GG, 16/10"
     },
     {
       "name": "Mariona",
@@ -960,8 +968,8 @@
     },
     {
       "name": "Álvaro Carreras",
-      "bonus": 2,
-      "reason": "parmi les plus utilisés par les pros (FUT.GG)"
+      "bonus": 3,
+      "reason": "2e DC des pros (13 %) — FUT.GG, 16/10"
     },
     {
       "name": "Willian Pacho",
@@ -1020,8 +1028,8 @@
     },
     {
       "name": "Nico Williams",
-      "bonus": 1,
-      "reason": "parmi les plus utilisés par la communauté (FUT.GG)"
+      "bonus": 2,
+      "reason": "2e AG des pros (10 %) — FUT.GG, 16/10"
     },
     {
       "name": "Anthony Gordon",
@@ -1102,6 +1110,16 @@
       "name": "Gianluca Zambrotta",
       "bonus": 1,
       "reason": "3e DD des pros (7 %) — FUT.GG, 15/10"
+    },
+    {
+      "name": "Klara Bühl",
+      "bonus": 1,
+      "reason": "2e MG des pros (6 %) — FUT.GG, 16/10"
+    },
+    {
+      "name": "Bernardo Silva",
+      "bonus": 1,
+      "reason": "2e MD des pros (6 %) — FUT.GG, 16/10"
     }
   ],
   "candidates": [

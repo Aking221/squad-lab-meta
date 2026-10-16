@@ -15,3 +15,8 @@
 - Formations, ordre, tiers et réglages inchangés : FUTSettings donne toujours 4-3-1-2 ≈ 55 %, 4-4-1-1 21 %, 4-2-1-3 11 % (ligne 60 et construction équilibrée majoritaires). Aucun patch de gameplay depuis la 1.0.4 (07/10).
 - Joueurs en vogue (FUT.GG, plus utilisés par poste) : Karim Adeyemi +2 → +3 (1er attaquant/AD de la communauté) ; ajout de Lionel Messi (+2), Micah Richards, Xavi Espart et Gianluca Zambrotta (+1) ; raisons précisées pour Lacroix (31 % des pros), Joan García et Patri Guijarro.
 - Contexte : Future Stars équipe 2 attendue le 16/10 (liste issue de fuites), Season 2 le 22/10. Cartes candidates et prix inchangés.
+
+## 2026-10-16
+- Formations, ordre, tiers et réglages inchangés (4-3-1-2 en tête). Conseil du 4-2-1-3 mis à jour : formation n° 1 de la communauté (26 %) et 19 % des équipes pros sur FUT.GG. Toujours aucun patch de gameplay depuis la 1.0.4 (07/10).
+- Joueurs en vogue (FUT.GG, plus utilisés par poste au 16/10) : Caroline Graham Hansen +2 → +3 (1re AD des pros, 19 %), Balde +2 → +3 (24 % des DG de la communauté), Álvaro Carreras +2 → +3 (2e DC des pros), Nico Williams +1 → +2 ; ajout de Klara Bühl et Bernardo Silva (+1) ; raisons actualisées pour Lacroix (29 %), Joan García (25 %), Mbappé, Paralluelo, Karchaoui, Pedri et Adeyemi.
+- Contexte : Future Stars équipe 2 en packs le 16/10 à 19 h (Mainoo, Mastantuono, Hato, Rayan…), pas encore visible dans l'usage. Cartes candidates et prix inchangés (pas de source de prix datée).
