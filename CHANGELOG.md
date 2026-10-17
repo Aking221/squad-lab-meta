@@ -20,3 +20,8 @@
 - Formations, ordre, tiers et réglages inchangés (4-3-1-2 en tête). Conseil du 4-2-1-3 mis à jour : formation n° 1 de la communauté (26 %) et 19 % des équipes pros sur FUT.GG. Toujours aucun patch de gameplay depuis la 1.0.4 (07/10).
 - Joueurs en vogue (FUT.GG, plus utilisés par poste au 16/10) : Caroline Graham Hansen +2 → +3 (1re AD des pros, 19 %), Balde +2 → +3 (24 % des DG de la communauté), Álvaro Carreras +2 → +3 (2e DC des pros), Nico Williams +1 → +2 ; ajout de Klara Bühl et Bernardo Silva (+1) ; raisons actualisées pour Lacroix (29 %), Joan García (25 %), Mbappé, Paralluelo, Karchaoui, Pedri et Adeyemi.
 - Contexte : Future Stars équipe 2 en packs le 16/10 à 19 h (Mainoo, Mastantuono, Hato, Rayan…), pas encore visible dans l'usage. Cartes candidates et prix inchangés (pas de source de prix datée).
+
+## 2026-10-17
+- Formations, ordre, tiers et réglages inchangés (4-3-1-2 en tête, pas de nouvelle donnée d'usage datée). Toujours aucun patch de gameplay depuis la 1.0.4 (07/10).
+- Joueurs en vogue (FUT.GG, plus utilisés par poste au 17/10) : Lamine Yamal +3 → +4 (1er AD des pros, 19 %), Xavi Espart +1 → +2 (1er DG des pros, 12 %), Caroline Graham Hansen +3 → +2 (3e AD des pros, 11 %) ; ajout de Lewis Miley (+1) ; raisons actualisées pour Lacroix (25 %), Joan García (23 %), Paralluelo, Bonmatí, Karchaoui, Pedri, Guijarro, Adeyemi, Mbappé, Barcola, Balde, Frimpong, Carreras, Valencia, Diomande et Dumornay.
+- Contexte : Future Stars équipe 2 en packs depuis le 16/10 (communiqué EA), pas encore visible dans l'usage ; TOTW 6 attendue le 21/10 et Ultimate Scream le 23/10 (rumeurs). Cartes candidates et prix inchangés (pas de source de prix datée).
