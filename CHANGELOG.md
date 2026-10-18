@@ -28,5 +28,5 @@
 
 ## 2026-10-18
 - Formations, ordre, tiers et réglages inchangés (4-3-1-2 en tête, pas de nouvelle donnée d'usage datée). Toujours aucun patch de gameplay depuis la 1.0.4 (07/10, Patchbot).
-- Joueurs en vogue (FUT.GG, plus utilisés par poste au 18/10) : Kylian Mbappé +4 → +5 (1er BU des pros, 17 %), Xavi Espart +2 → +3 (1er DG des pros, 15 %), Savinho +1 → +2 (1er MD de la communauté), Djed Spence +1 → +2 (3e DG pros et communauté), David Raya +1 → +2 (2e gardien de la communauté), Lionel Messi +2 → +1 (3e MOC des pros, 4 %) ; ajout de Denzel Dumfries et Temwa Chawinga (+1) ; raisons actualisées pour 41 autres joueurs (dont Llorente, 1er DD des pros, et Stanway, 2e MC).
+- Joueurs en vogue (FUT.GG, plus utilisés par poste au 18/10) : Kylian Mbappé +4 → +5 (1er BU des pros, 17 %), Xavi Espart +2 → +3 (1er DG des pros, 15 %), Savinho +1 → +2 (1er MD de la communauté), Djed Spence +1 → +2 (3e DG pros et communauté), David Raya +1 → +2 (2e gardien de la communauté), Lionel Messi +2 → +1 (3e MOC des pros, 4 %) ; ajout de Denzel Dumfries et Temwa Chawinga (+1) ; raisons actualisées pour 37 autres joueurs (dont Llorente, 1er DD des pros, et Stanway, 2e MC).
 - Contexte : TOTW 6 attendue le 21/10, Season 2 le 22/10, Ultimate Scream estimé au 23/10 (non confirmé par EA). Cartes candidates et prix inchangés (pas de source de prix datée).
