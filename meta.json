@@ -1,12 +1,28 @@
 {
   "schema": 1,
   "game": "fc27",
-  "updated": "2026-10-19",
-  "summary": "Meta FC 27 au 19/10/2026 : toujours aucun patch de gameplay depuis la 1.0.4 du 7 octobre, et le 4-3-1-2 se renforce chez les pros (60 % des setups FUTSettings) devant le 4-4-1-1 (19 %) et le 4-2-1-3 (8 %). Côté joueurs, Joan García (31 % des pros), Álvaro Carreras, Georgia Stanway, Caroline Graham Hansen et Kadidiatou Diani montent sur FUT.GG, tandis que les Star Performers sont sortis le 17/10, avant la Season 2 le 22/10.",
+  "updated": "2026-10-20",
+  "summary": "Meta FC 27 au 20/10/2026 : toujours aucun patch de gameplay depuis la 1.0.4 du 7 octobre, et le 4-3-1-2 reste la formation des pros (60 % des setups FUTSettings, 44 % sur FUT.GG) devant le 4-4-1-1 et le 4-2-1-3. Côté joueurs, Xavi Espart (22 % des DG pros), Caroline Graham Hansen, Karim Adeyemi et Thibaut Courtois montent sur FUT.GG, avant la Season 2 « Heritage » attendue le 22/10 et Ultimate Scream le 23/10 (fuites).",
   "sources": [
     {
-      "title": "FUT.GG — Most used players by position (FC 27, consulté le 19/10/2026)",
+      "title": "FUT.GG — Most used players by position (FC 27, consulté le 20/10/2026)",
       "url": "https://www.fut.gg/tactics/most-used-players/"
+    },
+    {
+      "title": "FUT.GG — Best 4-3-1-2 custom tactics (44 % des pros, mis à jour le 19/10/2026)",
+      "url": "https://www.fut.gg/tactics/4-3-1-2/"
+    },
+    {
+      "title": "RealSport101 — FC 27 Season 2 Heritage : heure de sortie et cartes (19/10/2026)",
+      "url": "https://realsport101.com/article/fc-27-season-2-heritage-start-time-reward-track-leaked-cards"
+    },
+    {
+      "title": "FUTFC.gg — FC 27 Ultimate Scream : date et fuites (16/10/2026)",
+      "url": "https://futfc.gg/ultimate-scream/"
+    },
+    {
+      "title": "Athlon Sports — EA FC 27 patch 1.0.4 sans changement de gameplay (06/10/2026)",
+      "url": "https://athlonsports.com/sports-video-games/ea-fc-27-career-mode-update"
     },
     {
       "title": "FUTSettings — Meta tactics & formations (60 % des setups pros en 4-3-1-2, consulté le 19/10/2026)",
@@ -55,10 +71,6 @@
     {
       "title": "MP1st — EA Sports FC 27 update du 7 octobre (07/10/2026)",
       "url": "https://mp1st.com/title-updates-and-patches/ea-sports-fc-27-update-1-06-rolled-out-on-october-7"
-    },
-    {
-      "title": "FUT.GG — Best 4-3-1-2 custom tactics (usage pros/communauté, 14/10/2026)",
-      "url": "https://www.fut.gg/tactics/4-3-1-2/"
     },
     {
       "title": "EA — FC 27 Title Update 1.0.4 (07/10/2026)",
@@ -161,7 +173,7 @@
           "focus": "attack"
         }
       ],
-      "tips": "Toujours la formation n° 1 des pros : 60 % des setups pros suivis par FUTSettings (19/10, contre ≈ 55 % le 15/10). Trois milieux (deux Box-to-Box récupération + un Holding), un MOC Shadow Striker et deux attaquants rapides. Réglage le plus joué : construction équilibrée (58 % des pros), ligne 60 (42 %), gardien classique en défense. Variante agressive d'EasySBC (12/10) : ligne 95 et défense extrême."
+      "tips": "Toujours la formation n° 1 des pros : 60 % des setups pros suivis par FUTSettings (19/10) et 44 % des équipes pros jouant une 4-3-1-2 sur FUT.GG (21 % de la communauté, 19/10). Trois milieux (deux Box-to-Box récupération + un Holding), un MOC Shadow Striker et deux attaquants rapides. Réglage le plus joué : construction équilibrée (56 % des pros sur FUT.GG), ligne 60, gardien classique en défense. Variante agressive d'EasySBC (12/10) : ligne 95 et défense extrême."
     },
     {
       "id": "4-4-1-1",
@@ -708,27 +720,27 @@
     {
       "name": "Georgia Stanway",
       "bonus": 4,
-      "reason": "2e MC des pros (16 %) et de la communauté (4 %), 3e MDC de la communauté (5 %) — FUT.GG, 19/10"
+      "reason": "2e MC des pros (19 %, contre 16 % la veille), 3e MDC de la communauté (5 %) — FUT.GG, 20/10"
     },
     {
       "name": "Salma Paralluelo",
       "bonus": 4,
-      "reason": "AG le plus utilisé par les pros (21 %), 2e BU des pros (10 %) — FUT.GG, 19/10"
+      "reason": "AG le plus utilisé par les pros (24 %), 3e BU des pros (9 %) — FUT.GG, 20/10"
     },
     {
       "name": "Kika Nazareth",
       "bonus": 3,
-      "reason": "2e MOC des pros et de la communauté (6 %) — FUT.GG, 19/10"
+      "reason": "3e MOC des pros et 2e de la communauté (6 %) — FUT.GG, 20/10"
     },
     {
       "name": "Melchie Dumornay",
       "bonus": 4,
-      "reason": "2e BU des pros (7 %) — FUT.GG, 18/10"
+      "reason": "2e BU des pros (11 %) — FUT.GG, 20/10"
     },
     {
       "name": "Pedri",
       "bonus": 3,
-      "reason": "2e MDC des pros (13 %) — FUT.GG, 19/10"
+      "reason": "MDC le plus utilisé par les pros (12 %, à égalité avec Xavi Espart) — FUT.GG, 20/10"
     },
     {
       "name": "Kroupi",
@@ -738,12 +750,12 @@
     {
       "name": "Aitana Bonmatí",
       "bonus": 4,
-      "reason": "MOC le plus utilisé par les pros (12 %) — FUT.GG, 19/10"
+      "reason": "MOC le plus utilisé par les pros (12 %) — FUT.GG, 20/10"
     },
     {
       "name": "Sakina Karchaoui",
       "bonus": 4,
-      "reason": "MC le plus utilisé (20 % des pros, 5 % de la communauté), 3e MDC des pros (13 %) — FUT.GG, 19/10"
+      "reason": "MC le plus utilisé (23 % des pros, 5 % de la communauté) — FUT.GG, 20/10"
     },
     {
       "name": "Raphinha",
@@ -758,7 +770,7 @@
     {
       "name": "Lamine Yamal",
       "bonus": 3,
-      "reason": "3e AD des pros (11 %, contre 18 % la veille), 2e AD de la communauté (8 %) — FUT.GG, 19/10"
+      "reason": "3e AD des pros (9 %) et 2e de la communauté (9 %), 3e MD (6 %) — FUT.GG, 20/10"
     },
     {
       "name": "Davor Šuker",
@@ -783,7 +795,7 @@
     {
       "name": "Patri Guijarro",
       "bonus": 3,
-      "reason": "2e MDC des pros (11 %) — FUT.GG, 18/10"
+      "reason": "3e MDC des pros (10 %) — FUT.GG, 20/10"
     },
     {
       "name": "Amad",
@@ -803,12 +815,12 @@
     {
       "name": "Eric García",
       "bonus": 3,
-      "reason": "3e DC des pros (10 %), 2e de la communauté (6 %) — FUT.GG, 19/10"
+      "reason": "3e DC des pros (11 %), 2e de la communauté (7 %) — FUT.GG, 20/10"
     },
     {
       "name": "Joan García",
       "bonus": 4,
-      "reason": "gardien le plus utilisé (31 % des pros, 23 % de la communauté) — FUT.GG, 19/10"
+      "reason": "gardien le plus utilisé (32 % des pros, 24 % de la communauté) — FUT.GG, 20/10"
     },
     {
       "name": "Michael Olise",
@@ -843,22 +855,22 @@
     {
       "name": "Bradley Barcola",
       "bonus": 3,
-      "reason": "AG (12 %) et MG (10 %) le plus utilisé par la communauté, 3e AG des pros (8 %) — FUT.GG, 19/10"
+      "reason": "AG (12 %) et MG (10 %) le plus utilisé par la communauté, 2e AG des pros (12 %) — FUT.GG, 20/10"
     },
     {
       "name": "Marcos Llorente",
       "bonus": 3,
-      "reason": "DD le plus utilisé par les pros (14 %, à égalité), 2e de la communauté (10 %) — FUT.GG, 19/10"
+      "reason": "2e DD des pros (11 %) et de la communauté (10 %) — FUT.GG, 20/10"
     },
     {
       "name": "Federico Valverde",
       "bonus": 3,
-      "reason": "3e MC des pros (10 %) — FUT.GG, 19/10"
+      "reason": "3e MC des pros (11 %) — FUT.GG, 20/10"
     },
     {
       "name": "Kylian Mbappé",
       "bonus": 5,
-      "reason": "BU le plus utilisé par les pros (14 %) — FUT.GG, 19/10"
+      "reason": "BU le plus utilisé par les pros (16 %) — FUT.GG, 20/10"
     },
     {
       "name": "Rafael Márquez",
@@ -867,8 +879,8 @@
     },
     {
       "name": "Ousmane Dembélé",
-      "bonus": 4,
-      "reason": "3e BU des pros (10 %) — FUT.GG, 19/10"
+      "bonus": 3,
+      "reason": "sorti du top 3 BU des pros (10 % la veille) — FUT.GG, 20/10"
     },
     {
       "name": "Vini Jr.",
@@ -958,12 +970,12 @@
     {
       "name": "Maxence Lacroix",
       "bonus": 3,
-      "reason": "DC le plus utilisé (25 % des pros, 24 % de la communauté) — FUT.GG, 19/10"
+      "reason": "DC le plus utilisé (23 % des pros, 24 % de la communauté) — FUT.GG, 20/10"
     },
     {
       "name": "Caroline Graham Hansen",
-      "bonus": 3,
-      "reason": "AD le plus utilisé par les pros (14 %, contre 9 % la veille) — FUT.GG, 19/10"
+      "bonus": 4,
+      "reason": "AD le plus utilisé par les pros (19 %, contre 14 % la veille) — FUT.GG, 20/10"
     },
     {
       "name": "Balde",
@@ -972,8 +984,8 @@
     },
     {
       "name": "Karim Adeyemi",
-      "bonus": 3,
-      "reason": "MG le plus utilisé par les pros (16 %), 2e AG (13 %) ; 1er BU, AD et MD de la communauté — FUT.GG, 19/10"
+      "bonus": 4,
+      "reason": "MG (12 %) et MD (9 %) le plus utilisé par les pros, 2e AD des pros (16 %) ; 1er BU, MD et AD de la communauté — FUT.GG, 20/10"
     },
     {
       "name": "Mariona",
@@ -983,17 +995,17 @@
     {
       "name": "Yan Diomande",
       "bonus": 2,
-      "reason": "MD le plus utilisé par les pros (12 %), 2e MG (8 %) — FUT.GG, 19/10"
+      "reason": "2e MD (6 %) et 3e MG (6 %) des pros — FUT.GG, 20/10"
     },
     {
       "name": "Selma Bacha",
       "bonus": 3,
-      "reason": "2e DG des pros (14 %, contre 8 % la veille), 3e de la communauté (6 %) — FUT.GG, 19/10"
+      "reason": "2e DG des pros (11 %), 3e de la communauté (6 %) — FUT.GG, 20/10"
     },
     {
       "name": "Álvaro Carreras",
       "bonus": 4,
-      "reason": "2e DC des pros (17 %, contre 9 % la veille) — FUT.GG, 19/10"
+      "reason": "2e DC des pros (19 %, contre 17 % la veille) — FUT.GG, 20/10"
     },
     {
       "name": "Willian Pacho",
@@ -1002,23 +1014,23 @@
     },
     {
       "name": "Thibaut Courtois",
-      "bonus": 2,
-      "reason": "2e gardien des pros (8 %) — FUT.GG, 19/10"
+      "bonus": 3,
+      "reason": "2e gardien des pros (10 %, contre 8 % la veille) — FUT.GG, 20/10"
     },
     {
       "name": "Kadidiatou Diani",
-      "bonus": 3,
-      "reason": "2e AD des pros (11 %) — FUT.GG, 19/10"
+      "bonus": 2,
+      "reason": "sortie du top 3 AD des pros (11 % la veille) — FUT.GG, 20/10"
     },
     {
       "name": "Alexia Putellas",
-      "bonus": 2,
-      "reason": "2e MOC des pros (6 %) — FUT.GG, 18/10"
+      "bonus": 3,
+      "reason": "2e MOC des pros (9 %, contre 6 % le 18/10) — FUT.GG, 20/10"
     },
     {
       "name": "Antonio Valencia",
       "bonus": 3,
-      "reason": "DD le plus utilisé par les pros (14 %, contre 8 % la veille) — FUT.GG, 19/10"
+      "reason": "DD le plus utilisé par les pros (13 %) — FUT.GG, 20/10"
     },
     {
       "name": "Jeremie Frimpong",
@@ -1127,8 +1139,8 @@
     },
     {
       "name": "Xavi Espart",
-      "bonus": 3,
-      "reason": "DG (17 %) et MDC (15 %) le plus utilisé par les pros, 2e DG de la communauté (10 %) — FUT.GG, 19/10"
+      "bonus": 4,
+      "reason": "DG le plus utilisé par les pros (22 %, contre 17 % la veille), 1er MDC (12 %) et 3e DD des pros (10 %), 2e DG de la communauté (12 %) — FUT.GG, 20/10"
     },
     {
       "name": "Gianluca Zambrotta",
@@ -1137,8 +1149,8 @@
     },
     {
       "name": "Klara Bühl",
-      "bonus": 1,
-      "reason": "3e MG des pros (6 %) — FUT.GG, 19/10"
+      "bonus": 2,
+      "reason": "2e MG des pros (8 %, contre 6 % la veille) — FUT.GG, 20/10"
     },
     {
       "name": "Bernardo Silva",
