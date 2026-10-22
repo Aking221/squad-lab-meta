@@ -1,20 +1,24 @@
 {
   "schema": 1,
   "game": "fc27",
-  "updated": "2026-10-21",
-  "summary": "Meta FC 27 au 21/10/2026 : toujours aucun patch de gameplay depuis la 1.0.4 du 7 octobre, et le 4-3-1-2 se renforce chez les pros (63 % des setups FUTSettings) tandis que le 4-4-1-1 recule à 14 %. Côté joueurs, Joan García (35 % des pros), Maxence Lacroix, Lamine Yamal, Ousmane Dembélé, Yan Diomande et Nico Williams montent sur FUT.GG, avec la TOTW 6 ce soir et Ultimate Scream attendu le 23/10 (fuites, non confirmé par EA).",
+  "updated": "2026-10-22",
+  "summary": "Meta FC 27 au 22/10/2026 : toujours aucun patch de gameplay depuis la 1.0.4 du 7 octobre et le 4-3-1-2 reste la formation n° 1 des pros, avec le lancement de la Season 2 « Heritage » ce jour. Sur FUT.GG, Lamine Yamal (19 % des AD pros), Yan Diomande (TOTW 6), David Raya et Lauren James montent, tandis que Paralluelo, Graham Hansen, Nico Williams et Mariona reculent ; Ultimate Scream reste attendu le 23/10 (fuites, non confirmé par EA).",
   "sources": [
     {
-      "title": "FUT.GG — Most used players by position (FC 27, consulté le 21/10/2026)",
+      "title": "FUT.GG — Most used players by position (FC 27, consulté le 22/10/2026)",
       "url": "https://www.fut.gg/tactics/most-used-players/"
+    },
+    {
+      "title": "FIFAUTeam — FC 27 TOTW 6 : l'équipe complète (Luis Díaz, Diomande, Lauren James…, 21/10/2026)",
+      "url": "https://fifauteam.com/fc-27-totw/"
+    },
+    {
+      "title": "Yahoo Tech — FC 27 Season 2 Heritage : lancement le 22/10 et récompenses (20/10/2026)",
+      "url": "https://tech.yahoo.com/gaming/articles/fc-27-season-2-heritage-110517005.html"
     },
     {
       "title": "FUT.GG — Best 4-3-1-2 custom tactics (44 % des pros, mis à jour le 19/10/2026)",
       "url": "https://www.fut.gg/tactics/4-3-1-2/"
-    },
-    {
-      "title": "FUTBIN — FC 27 Team of the Week 6 predictions (19/10/2026)",
-      "url": "https://www.futbin.com/news/articles/1798/fc-27-team-of-the-week-6-predictions"
     },
     {
       "title": "FUTFC.gg — Calendrier des promos FC 27 (fin de Season 1 le 22/10, Ultimate Scream le 23/10, mis à jour le 16/10/2026)",
@@ -25,7 +29,7 @@
       "url": "https://realsport101.com/article/fc-27-season-2-heritage-start-time-reward-track-leaked-cards"
     },
     {
-      "title": "FUTFC.gg — FC 27 Ultimate Scream : date et fuites (16/10/2026)",
+      "title": "FUTFC.gg — FC 27 Ultimate Scream : date (23/10) et fuites (mis à jour le 20/10/2026)",
       "url": "https://futfc.gg/ultimate-scream/"
     },
     {
@@ -49,7 +53,7 @@
       "url": "https://timesaver.gg/blog/fc-27-ultimate-scream-release-date-full-moon-leak-season-2"
     },
     {
-      "title": "Patchbot — EA SPORTS FC 27 patch notes (dernière mise à jour 1.0.4, consulté le 18/10/2026)",
+      "title": "Patchbot — EA SPORTS FC 27 patch notes (dernière mise à jour 1.0.4, consulté le 22/10/2026)",
       "url": "https://patchbot.io/games/ea-sports-fc-27"
     },
     {
@@ -728,17 +732,17 @@
     {
       "name": "Georgia Stanway",
       "bonus": 4,
-      "reason": "2e MC des pros (17 %) et 3e MDC des pros (10 %) — FUT.GG, 21/10"
+      "reason": "2e MC des pros (15 %), 2e MDC de la communauté (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "Salma Paralluelo",
-      "bonus": 4,
-      "reason": "AG le plus utilisé par les pros (20 %, contre 24 % la veille) — FUT.GG, 21/10"
+      "bonus": 3,
+      "reason": "sortie du top 3 AG des pros (20 % la veille) — FUT.GG, 22/10"
     },
     {
       "name": "Kika Nazareth",
       "bonus": 3,
-      "reason": "2e MOC de la communauté (6 %), sortie du top 3 des pros — FUT.GG, 21/10"
+      "reason": "2e MOC de la communauté (6 %) — FUT.GG, 22/10"
     },
     {
       "name": "Melchie Dumornay",
@@ -748,7 +752,7 @@
     {
       "name": "Pedri",
       "bonus": 3,
-      "reason": "2e MDC des pros (13 %) — FUT.GG, 21/10"
+      "reason": "2e MDC (13 %) et 3e MC (10 %) des pros — FUT.GG, 22/10"
     },
     {
       "name": "Kroupi",
@@ -758,12 +762,12 @@
     {
       "name": "Aitana Bonmatí",
       "bonus": 4,
-      "reason": "MOC le plus utilisé par les pros (10 %) — FUT.GG, 21/10"
+      "reason": "MOC le plus utilisé par les pros (9 %) — FUT.GG, 22/10"
     },
     {
       "name": "Sakina Karchaoui",
       "bonus": 4,
-      "reason": "MC le plus utilisé (23 % des pros, 5 % de la communauté) — FUT.GG, 21/10"
+      "reason": "MC le plus utilisé (22 % des pros, 5 % de la communauté) — FUT.GG, 22/10"
     },
     {
       "name": "Raphinha",
@@ -773,12 +777,12 @@
     {
       "name": "Vicky López",
       "bonus": 3,
-      "reason": "MOC le plus utilisé par la communauté (8 %) — FUT.GG, 21/10"
+      "reason": "MOC le plus utilisé par la communauté (8 %) — FUT.GG, 22/10"
     },
     {
       "name": "Lamine Yamal",
-      "bonus": 4,
-      "reason": "2e AD des pros (15 %, contre 9 % la veille) et de la communauté (9 %) — FUT.GG, 21/10"
+      "bonus": 5,
+      "reason": "AD le plus utilisé par les pros (19 %, contre 15 % la veille), 2e MD des pros (8 %) — FUT.GG, 22/10"
     },
     {
       "name": "Davor Šuker",
@@ -803,7 +807,7 @@
     {
       "name": "Patri Guijarro",
       "bonus": 3,
-      "reason": "3e MDC des pros (10 %) — FUT.GG, 20/10"
+      "reason": "3e MDC des pros (9 %) — FUT.GG, 22/10"
     },
     {
       "name": "Amad",
@@ -823,12 +827,12 @@
     {
       "name": "Eric García",
       "bonus": 3,
-      "reason": "3e DC des pros (8 %), 2e de la communauté (7 %) — FUT.GG, 21/10"
+      "reason": "2e DC de la communauté (7 %), sorti du top 3 des pros — FUT.GG, 22/10"
     },
     {
       "name": "Joan García",
       "bonus": 5,
-      "reason": "gardien le plus utilisé (35 % des pros, 25 % de la communauté) — FUT.GG, 21/10"
+      "reason": "gardien le plus utilisé (33 % des pros, 25 % de la communauté) — FUT.GG, 22/10"
     },
     {
       "name": "Michael Olise",
@@ -858,17 +862,17 @@
     {
       "name": "Claudia Pina",
       "bonus": 4,
-      "reason": "très joué en ce moment (FUTBIN populaires, EasySBC, FUTSettings)"
+      "reason": "2e AG des pros (10 %) — FUT.GG, 22/10"
     },
     {
       "name": "Bradley Barcola",
       "bonus": 3,
-      "reason": "AG (12 %) et MG (11 %) le plus utilisé par la communauté, 3e MG des pros (6 %) — FUT.GG, 21/10"
+      "reason": "AG (12 %) et MG (11 %) le plus utilisé par la communauté — FUT.GG, 22/10"
     },
     {
       "name": "Marcos Llorente",
       "bonus": 3,
-      "reason": "3e DD des pros (9 %), 2e de la communauté (10 %) — FUT.GG, 21/10"
+      "reason": "2e DD de la communauté (10 %), sorti du top 3 des pros — FUT.GG, 22/10"
     },
     {
       "name": "Federico Valverde",
@@ -878,7 +882,7 @@
     {
       "name": "Kylian Mbappé",
       "bonus": 5,
-      "reason": "BU le plus utilisé par les pros (13 %, contre 16 % la veille) — FUT.GG, 21/10"
+      "reason": "BU le plus utilisé par les pros (14 %, contre 13 % la veille) — FUT.GG, 22/10"
     },
     {
       "name": "Rafael Márquez",
@@ -888,7 +892,7 @@
     {
       "name": "Ousmane Dembélé",
       "bonus": 4,
-      "reason": "de retour : 2e BU (11 %) et 3e AD (12 %) des pros — FUT.GG, 21/10"
+      "reason": "2e BU des pros ex æquo (10 %), sorti du top 3 AD — FUT.GG, 22/10"
     },
     {
       "name": "Vini Jr.",
@@ -928,12 +932,12 @@
     {
       "name": "Lauren Hemp",
       "bonus": 2,
-      "reason": "très joué en ce moment (FUTBIN populaires, EasySBC, FUTSettings)"
+      "reason": "3e MG des pros (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "Ona Batlle",
       "bonus": 3,
-      "reason": "2e DD des pros (10 %), 3e de la communauté (9 %) — FUT.GG, 21/10"
+      "reason": "DD le plus utilisé par les pros ex æquo (10 %), 3e de la communauté (9 %) — FUT.GG, 22/10"
     },
     {
       "name": "Fikayo Tomori",
@@ -978,42 +982,42 @@
     {
       "name": "Maxence Lacroix",
       "bonus": 4,
-      "reason": "DC le plus utilisé (26 % des pros, contre 23 % la veille ; 24 % de la communauté) — FUT.GG, 21/10"
+      "reason": "DC le plus utilisé (25 % des pros, 24 % de la communauté) — FUT.GG, 22/10"
     },
     {
       "name": "Caroline Graham Hansen",
-      "bonus": 4,
-      "reason": "AD le plus utilisé par les pros (18 %) — FUT.GG, 21/10"
+      "bonus": 3,
+      "reason": "3e AD des pros (12 %, contre 18 % la veille) — FUT.GG, 22/10"
     },
     {
       "name": "Balde",
       "bonus": 3,
-      "reason": "DG le plus utilisé par la communauté (20 %) — FUT.GG, 21/10"
+      "reason": "DG le plus utilisé par la communauté (20 %) — FUT.GG, 22/10"
     },
     {
       "name": "Karim Adeyemi",
       "bonus": 4,
-      "reason": "MG le plus utilisé par les pros (13 %), 2e AG (15 %) et 3e BU (9 %) des pros ; 1er BU, MD et AD de la communauté — FUT.GG, 21/10"
+      "reason": "AG (14 %) et MG (12 %) le plus utilisé par les pros, 2e BU des pros (10 %) ; 1er BU et AD de la communauté — FUT.GG, 22/10"
     },
     {
       "name": "Mariona",
-      "bonus": 3,
-      "reason": "3e MC des pros (10 %) et de la communauté (5 %) — FUT.GG, 21/10"
+      "bonus": 2,
+      "reason": "sortie du top 3 MC des pros, 3e MC de la communauté (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "Yan Diomande",
-      "bonus": 3,
-      "reason": "MD le plus utilisé par les pros (7 %, contre 6 % la veille) — FUT.GG, 21/10"
+      "bonus": 4,
+      "reason": "MD le plus utilisé par les pros (11 %, contre 7 %) et 2e AD des pros (15 %) ; carte TOTW 6 (85) — FUT.GG, 22/10"
     },
     {
       "name": "Selma Bacha",
       "bonus": 3,
-      "reason": "2e DG des pros (9 %), 3e de la communauté (6 %) — FUT.GG, 21/10"
+      "reason": "3e DG des pros (8 %) et de la communauté (6 %) — FUT.GG, 22/10"
     },
     {
       "name": "Álvaro Carreras",
       "bonus": 4,
-      "reason": "2e DC des pros (17 %) — FUT.GG, 21/10"
+      "reason": "2e et 3e DC des pros (16 % en TOTW, 10 % en rare) — FUT.GG, 22/10"
     },
     {
       "name": "Willian Pacho",
@@ -1023,7 +1027,7 @@
     {
       "name": "Thibaut Courtois",
       "bonus": 2,
-      "reason": "2e gardien des pros (7 %, contre 10 % la veille) — FUT.GG, 21/10"
+      "reason": "3e gardien des pros (6 %) et de la communauté (7 %) — FUT.GG, 22/10"
     },
     {
       "name": "Kadidiatou Diani",
@@ -1033,17 +1037,17 @@
     {
       "name": "Alexia Putellas",
       "bonus": 3,
-      "reason": "2e MOC des pros (9 %) — FUT.GG, 21/10"
+      "reason": "2e MOC des pros ex æquo (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "Antonio Valencia",
       "bonus": 3,
-      "reason": "DD le plus utilisé par les pros (14 %) — FUT.GG, 21/10"
+      "reason": "DD le plus utilisé par les pros ex æquo (10 %, contre 14 %) — FUT.GG, 22/10"
     },
     {
       "name": "Jeremie Frimpong",
       "bonus": 2,
-      "reason": "DD le plus utilisé par la communauté (16 %) — FUT.GG, 21/10"
+      "reason": "DD le plus utilisé par la communauté (16 %) — FUT.GG, 22/10"
     },
     {
       "name": "Matheus Nunes",
@@ -1053,12 +1057,12 @@
     {
       "name": "João Neves",
       "bonus": 1,
-      "reason": "MDC le plus utilisé par la communauté (6 %) — FUT.GG, 21/10"
+      "reason": "MDC le plus utilisé par la communauté (6 %) — FUT.GG, 22/10"
     },
     {
       "name": "Elliot Anderson",
       "bonus": 1,
-      "reason": "2e MDC de la communauté (5 %) — FUT.GG, 19/10"
+      "reason": "3e MDC de la communauté (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "Ayyoub Bouaddi",
@@ -1068,12 +1072,12 @@
     {
       "name": "Savinho",
       "bonus": 2,
-      "reason": "2e MD (7 %) et 3e AD (6 %) de la communauté — FUT.GG, 21/10"
+      "reason": "3e AD (6 %) et 2e MD (7 %) de la communauté — FUT.GG, 22/10"
     },
     {
       "name": "Nico Williams",
-      "bonus": 3,
-      "reason": "2e AG des pros ex æquo (15 %), 3e de la communauté (6 %) — FUT.GG, 21/10"
+      "bonus": 2,
+      "reason": "sorti du top 3 AG des pros (15 % la veille), 3e AG et MG de la communauté (6 %) — FUT.GG, 22/10"
     },
     {
       "name": "Anthony Gordon",
@@ -1083,7 +1087,7 @@
     {
       "name": "Maghnes Akliouche",
       "bonus": 1,
-      "reason": "3e MOC de la communauté (5 %) — FUT.GG, 19/10"
+      "reason": "3e MOC de la communauté (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "Renato Veiga",
@@ -1093,7 +1097,7 @@
     {
       "name": "Djed Spence",
       "bonus": 2,
-      "reason": "2e DG des pros (9 %, à égalité avec Bacha) — FUT.GG, 21/10"
+      "reason": "2e DG des pros (10 %) — FUT.GG, 22/10"
     },
     {
       "name": "Giorgi Mamardashvili",
@@ -1108,12 +1112,12 @@
     {
       "name": "Alexandre Pato",
       "bonus": 1,
-      "reason": "2e BU de la communauté (5 %) — FUT.GG, 19/10"
+      "reason": "2e BU de la communauté (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "Nicole Anyomi",
       "bonus": 1,
-      "reason": "3e BU de la communauté (5 %) — FUT.GG, 19/10"
+      "reason": "3e BU de la communauté (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "Theo Hernández",
@@ -1128,12 +1132,12 @@
     {
       "name": "Pau Cubarsí",
       "bonus": 1,
-      "reason": "3e DC de la communauté (5 %) — FUT.GG, 21/10"
+      "reason": "3e DC de la communauté (5 %) — FUT.GG, 22/10"
     },
     {
       "name": "David Raya",
-      "bonus": 2,
-      "reason": "2e gardien de la communauté (9 %) — FUT.GG, 21/10"
+      "bonus": 3,
+      "reason": "2e gardien des pros (8 %) et de la communauté (9 %) — FUT.GG, 22/10"
     },
     {
       "name": "Lionel Messi",
@@ -1148,7 +1152,7 @@
     {
       "name": "Xavi Espart",
       "bonus": 4,
-      "reason": "MDC le plus utilisé par les pros (21 %, contre 12 % la veille), 1er DG des pros (17 %) et 2e DG de la communauté (13 %) — FUT.GG, 21/10"
+      "reason": "MDC (20 %) et DG (15 %) le plus utilisé par les pros, 3e DD des pros (8 %) — FUT.GG, 22/10"
     },
     {
       "name": "Gianluca Zambrotta",
@@ -1158,7 +1162,7 @@
     {
       "name": "Klara Bühl",
       "bonus": 2,
-      "reason": "2e MG des pros (8 %) — FUT.GG, 21/10"
+      "reason": "2e MG des pros (7 %) — FUT.GG, 22/10"
     },
     {
       "name": "Bernardo Silva",
@@ -1184,6 +1188,21 @@
       "name": "Phil Foden",
       "bonus": 1,
       "reason": "3e MD des pros (5 %) — FUT.GG, 21/10"
+    },
+    {
+      "name": "Lauren James",
+      "bonus": 2,
+      "reason": "3e AG des pros (10 %) ; carte TOTW 6 (86 MG) — FUT.GG, 22/10"
+    },
+    {
+      "name": "Bukayo Saka",
+      "bonus": 1,
+      "reason": "3e MD des pros (5 %) — FUT.GG, 22/10"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "bonus": 1,
+      "reason": "2e MOC des pros ex æquo (5 %) — FUT.GG, 22/10"
     }
   ],
   "candidates": [
