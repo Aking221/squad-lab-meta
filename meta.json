@@ -1,20 +1,28 @@
 {
   "schema": 1,
   "game": "fc27",
-  "updated": "2026-10-23",
-  "summary": "Meta FC 27 au 23/10/2026 : toujours aucun patch de gameplay depuis la 1.0.4 du 7 octobre et le 4-3-1-2 reste la formation n° 1 des pros, avec Ultimate Scream (équipe 1 : Raphinha, Ronaldo, Paralluelo…) attendu ce soir à 18 h d'après les fuites. Sur FUT.GG, Bonmatí, Diomande, Patri Guijarro, Valencia, Bacha, Graham Hansen et Dumornay montent et Christos Tzolis fait son entrée, tandis que Claudia Pina, Dembélé, Bühl, Hemp et Lauren James reculent.",
+  "updated": "2026-10-24",
+  "summary": "Meta FC 27 au 24/10/2026 : toujours aucun patch de gameplay depuis la 1.0.4 du 7 octobre et le 4-3-1-2 reste la formation n° 1 des pros, tandis qu'Ultimate Scream équipe 1 (Raphinha 90, Zola 89, Ronaldo 89, Paralluelo 88…) est sortie le 23/10 avec des améliorations prévues le 24/11. Sur FUT.GG, les joueurs les plus utilisés par les pros n'ont pas bougé depuis la veille (Joan García, Lacroix, Bonmatí, Diomande, Yamal, Mbappé en tête) ; seul Ferran Torres fait son entrée côté communauté.",
   "sources": [
     {
-      "title": "FUT.GG — Most used players by position (FC 27, consulté le 23/10/2026)",
+      "title": "FUT.GG — Most used players by position (FC 27, consulté le 24/10/2026)",
       "url": "https://www.fut.gg/tactics/most-used-players/"
+    },
+    {
+      "title": "Soccer Gaming — FC 27 Ultimate Scream : joueurs et notes de l'équipe 1 (23/10/2026)",
+      "url": "https://soccergaming.com/fc-27-ultimate-scream-players-and-ratings"
+    },
+    {
+      "title": "FUT.GG — EA FC 27 Ultimate Scream : équipe 1, améliorations (24/11) et boutique (22/10/2026)",
+      "url": "https://www.fut.gg/news/ea-fc-27-ultimate-scream-release-date-times-upgrades/"
+    },
+    {
+      "title": "GameDropDaily — FC 27 : dernières mises à jour, toujours la 1.0.4 (actualisé le 22/10/2026)",
+      "url": "https://gamedropdaily.com/updates/ea-sports-fc-27/"
     },
     {
       "title": "FIFAUTeam — FC 27 Ultimate Scream : équipe 1 (fuites), du 23/10 18 h au 06/11 (mis à jour le 22/10/2026)",
       "url": "https://fifauteam.com/?p=362097"
-    },
-    {
-      "title": "RealSport101 — FC 27 Ultimate Scream : fuites de l’équipe 1 et heure de sortie (20/10/2026)",
-      "url": "https://realsport101.com/article/fc-27-ultimate-scream-leaks-team-1-squad-list-release-time-scream-upgrades"
     },
     {
       "title": "FIFAUTeam — FC 27 TOTW 6 : l'équipe complète (Luis Díaz, Diomande, Lauren James…, 21/10/2026)",
@@ -51,10 +59,6 @@
     {
       "title": "FUT Filters — FC 27 Star Performers : les 6 cartes (18/10/2026)",
       "url": "https://futfilters.com/blog/fc-27-star-performers-all-6-cards-playstyles-lab-what-we-still-don-t-know"
-    },
-    {
-      "title": "Keymap — FC 27 updates, patch notes et Season 2 (consulté le 19/10/2026)",
-      "url": "https://keymap.io/releases/ea-sports-fc-27/"
     },
     {
       "title": "Timesaver.gg — FC 27 Ultimate Scream, Season 2 et calendrier (15/10/2026)",
@@ -119,10 +123,6 @@
     {
       "title": "FUTBIN — Joueurs populaires FC 27 (consulté le 16/10/2026)",
       "url": "https://www.futbin.com/27/popular"
-    },
-    {
-      "title": "EasySBC — FC 27 best starter players",
-      "url": "https://www.easysbc.io/news/fc-27-best-starter-players/"
     }
   ],
   "formations": [
@@ -741,7 +741,7 @@
     {
       "name": "Salma Paralluelo",
       "bonus": 3,
-      "reason": "sortie du top 3 AG des pros (20 % la veille) — FUT.GG, 22/10"
+      "reason": "sortie du top 3 AG des pros ; carte Ultimate Scream 88 BU sortie le 23/10 — FUT.GG 22/10, Soccer Gaming 23/10"
     },
     {
       "name": "Kika Nazareth",
@@ -776,7 +776,7 @@
     {
       "name": "Raphinha",
       "bonus": 4,
-      "reason": "très joué en ce moment (FUTBIN populaires, EasySBC, FUTSettings)"
+      "reason": "très joué (FUTBIN populaires, EasySBC) ; carte Ultimate Scream 90 MOC sortie le 23/10 — Soccer Gaming, 23/10"
     },
     {
       "name": "Vicky López",
@@ -1217,6 +1217,11 @@
       "name": "Sveindís Jane Jónsdóttir",
       "bonus": 1,
       "reason": "2e MD des pros ex æquo (4 %) — FUT.GG, 23/10"
+    },
+    {
+      "name": "Ferran Torres",
+      "bonus": 1,
+      "reason": "3e BU de la communauté (5 %) — FUT.GG, 24/10"
     }
   ],
   "candidates": [
